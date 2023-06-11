@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wayan Putu Suarjana</h1>
-<h3 align="center">A passionate Frontend developer from Indonesia</h3>
+<h3 align="center">A passionate Frontend Developer from Indonesia</h3>
 
 - 📫 How to reach me **babassiahaan@gmail.com**
 
